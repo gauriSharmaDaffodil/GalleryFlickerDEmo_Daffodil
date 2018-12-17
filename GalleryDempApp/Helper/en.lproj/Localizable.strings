@@ -1,0 +1,10 @@
+// This file contains the local specific(english) strings.
+
+"dummyData" = "dummy data";
+"search" = "Search";
+"message" = "Message";
+"emptySearchResultMsg" = "Please provide search items.";
+"setLayoutTitle" = "Set Layout";
+"selectOptionMsg" = "Please Select an Option";
+"cancel" = "Cancel";
+"networkFailureMsg" = "Please check internet connection.";

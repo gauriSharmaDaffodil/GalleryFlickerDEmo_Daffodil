@@ -1,0 +1,10 @@
+// This file contains the local specific(english) strings.
+
+"dummyData" = "प्रतिरूपी डेटा";
+"search" = "खोज";
+"message" = "संदेश";
+"emptySearchResultMsg" = "कृपया खोज डेटा प्रदान करें।";
+"setLayoutTitle" = "लेआउट सेट करें";
+"selectOptionMsg" = "कृपया एक विकल्प चुनें।";
+"cancel" = "रद्द करें";
+"networkFailureMsg" = "इंटरनेट कनेक्शन की जांच करें।";

@@ -1,0 +1,6 @@
+framework module Pods_GalleryDempApp {
+  umbrella header "Pods-GalleryDempApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
